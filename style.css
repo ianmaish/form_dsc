@@ -1,0 +1,101 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+h1
+{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+}
+h2
+{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+label
+{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;  
+}
+.reg
+{
+    margin: auto;
+    width: 40%;
+    background-color: rgb(0,0,0,0.5);
+    margin-top: 50px;
+}
+.buttons 
+{
+    padding: 20px;
+    padding-bottom: 15px;
+}
+#signup
+{
+    width: 100px;
+    outline: 0;
+    padding: 5px;
+    font-size: 18px;
+    font-style: italic;
+    float: right;
+    margin-right: 100px;
+}
+#signup:hover
+{
+
+}
+#sign
+{
+    width: 100px;
+    outline: 0;
+    padding: 5px;
+    font-size: 18px;
+    font-style: italic;
+    margin-left: 100px;
+}
+#reg
+{
+    margin: auto;
+    width: 50%;
+}
+#name
+{
+    width: 300px;
+    padding: 5px;
+    border: none;
+    outline: 0;
+    border-radius: 5px;
+    border: 3px solid #9fabb6;
+}
+button
+{
+    width: 100px;
+    padding: 5px;
+    border: none;
+    outline: 0;
+    border-radius: 5px;
+    border: 3px solid #9fabb6;
+    background-color: #7ec07e;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+}
+button:hover
+{
+    background-color: #028d02;
+}
+input
+{
+    width: 200px;
+}
